@@ -5,7 +5,6 @@ public class CharFrequency {
     public static void main(String[] args) {
         String name = "programming";
         int[] freq = new int[256];
-
         for (int i = 0; i < name.length(); i++) {
             freq[name.charAt(i)]++;
         }
