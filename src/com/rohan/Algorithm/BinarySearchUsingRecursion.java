@@ -1,5 +1,6 @@
 package com.rohan.Algorithm;
-
+// Time Complexity = O(log n)
+// Space Complexity = O(log n)
 public class BinarySearchUsingRecursion {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,55,68,74};
