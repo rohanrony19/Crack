@@ -1,5 +1,6 @@
 package com.rohan.String;
-
+// Time Complexity = O(n)
+// Space Complexity = O(1)
 public class FirstNonRepeatingChar {
     public static void main(String[] args) {
         String str = "swiss";
