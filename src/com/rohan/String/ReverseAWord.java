@@ -6,6 +6,7 @@ public class ReverseAWord {
         String name = "Java is Programming Language";
         StringBuilder reversedSentence = new StringBuilder();
         String[] words = name.split(" ");
+
         for (String word:words){
             StringBuilder reversedWord = new StringBuilder();
             for (int i = word.length()-1; i >= 0 ; i--) {
