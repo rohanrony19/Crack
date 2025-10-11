@@ -6,7 +6,6 @@ public class MissingNumber {
         int[] arr = {1,2,3,5,6};
         int n = 6;
         int sum = n * (n+1)/2;
-
         int actualSum = 0;
         for (int num:arr) actualSum = actualSum + num;
         System.out.println("Missing Number: " + (sum-actualSum));
