@@ -15,7 +15,6 @@ public class PrintVowelsAndConsonants {
                 consonants += ch;
             }
         }
-
         System.out.println("Number of vowels in " + name + " is " + vowels);
         System.out.println("Number of consonants in " + name + " is " +consonants);
     }
