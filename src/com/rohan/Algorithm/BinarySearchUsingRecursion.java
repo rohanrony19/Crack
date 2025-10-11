@@ -7,6 +7,7 @@ public class BinarySearchUsingRecursion {
         int target = 1;
         System.out.println(binary(arr,target,0, arr.length-1));
     }
+
     static int binary(int[] arr,int target,int start,int end){
         if(start>end){
             return -1;
