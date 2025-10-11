@@ -6,6 +6,7 @@ public class PrintVowelsAndConsonants {
         String name = "Java Programming";
         String vowels = "";
         String consonants = "";
+
         for (int i = 0; i < name.length(); i++) {
             char ch = name.charAt(i);
             ch = Character.toLowerCase(ch);
@@ -15,6 +16,7 @@ public class PrintVowelsAndConsonants {
                 consonants += ch;
             }
         }
+
         System.out.println("Number of vowels in " + name + " is " + vowels);
         System.out.println("Number of consonants in " + name + " is " +consonants);
     }
