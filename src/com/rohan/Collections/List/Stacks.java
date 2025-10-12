@@ -43,5 +43,7 @@ public class Stacks {
         list.isEmpty();
         System.out.println(list);
 
+
+
     }
 }
