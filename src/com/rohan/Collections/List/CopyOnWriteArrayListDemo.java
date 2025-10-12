@@ -6,7 +6,6 @@ import java.util.concurrent.CopyOnWriteArrayList;
 
 public class CopyOnWriteArrayListDemo {
     public static void main(String[] args) {
-//        CopyOnWriteArrayList<Integer> list = new CopyOnWriteArrayList<>();
         List<String> shoppingList = new CopyOnWriteArrayList<>();
         shoppingList.add("Milk");
         shoppingList.add("Eggs");
