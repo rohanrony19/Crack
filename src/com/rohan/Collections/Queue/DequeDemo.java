@@ -18,6 +18,7 @@ public class DequeDemo {
         System.out.println("Last Element: " + deque1.getLast());
         deque1.removeFirst(); // remove 5
         deque1.pollLast(); // remove 25
+
         for (int i:deque1){
             System.out.print(i + " ");
         }
