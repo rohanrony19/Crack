@@ -8,7 +8,6 @@ public class DequeDemo {
     public static void main(String[] args) {
         // double-ended queue
         // allows insertion and removal of elements from both ends
-
         Deque<Integer> deque1 = new ArrayDeque<>(); // faster iteration, low memory, no null allowed
         deque1.addFirst(10);
         deque1.addLast(20);
