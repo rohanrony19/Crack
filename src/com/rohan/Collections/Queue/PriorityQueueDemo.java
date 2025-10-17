@@ -20,5 +20,6 @@ public class PriorityQueueDemo {
             System.out.println(pq.poll()); // 20,25,30
         }
 
+
     }
 }
