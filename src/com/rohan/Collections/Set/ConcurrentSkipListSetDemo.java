@@ -18,6 +18,5 @@ public class ConcurrentSkipListSetDemo {
             // Attempting to modify the set during iteration
             concurrentSkipListSet.add(6);
         }
-
     }
 }
