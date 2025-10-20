@@ -11,7 +11,6 @@ public class ConcurrentSkipListSetDemo {
         }
 
         System.out.println("Initial ConcurrentSkipListSet : " + concurrentSkipListSet);
-
         System.out.println("\nIterating and modifying CopyOnWriteArraySet: ");
         for (Integer num : concurrentSkipListSet){
             System.out.println("Reading from CopyOnWriteArraySet: " + num);
