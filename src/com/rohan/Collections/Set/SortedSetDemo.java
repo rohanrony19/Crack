@@ -11,6 +11,7 @@ public class SortedSetDemo {
         set.add(8);
         set.add(4);
 
+
         System.out.println("Sorted Set: " + set);
         System.out.println("First: " + set.first());
         System.out.println("Last: " + set.last());
