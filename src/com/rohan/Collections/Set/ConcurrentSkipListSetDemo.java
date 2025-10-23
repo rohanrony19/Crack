@@ -10,7 +10,6 @@ public class ConcurrentSkipListSetDemo {
             concurrentSkipListSet.add(i);
         }
 
-
         System.out.println("Initial ConcurrentSkipListSet : " + concurrentSkipListSet);
         System.out.println("\nIterating and modifying CopyOnWriteArraySet: ");
 
