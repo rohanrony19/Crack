@@ -42,5 +42,6 @@ public class QueueDemo {
 //        queue1.add(3); exception if full
         System.out.println(queue1.offer(3));
 
+
     }
 }
