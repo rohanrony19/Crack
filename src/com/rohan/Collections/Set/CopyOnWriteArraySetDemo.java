@@ -22,6 +22,7 @@ public class CopyOnWriteArraySetDemo {
         System.out.println("Initial ConcurrentSkipListSet : " + concurrentSkipListSet);
 
         System.out.println("\nIterating and modifying CopyOnWriteArraySet: ");
+
         for (Integer num : copy){
             System.out.println("Reading from CopyOnWriteArraySet: " + num);
             // Attempting to modify the set during iteration
