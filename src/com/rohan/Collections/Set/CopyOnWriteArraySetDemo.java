@@ -28,6 +28,7 @@ public class CopyOnWriteArraySetDemo {
             // Attempting to modify the set during iteration
             copy.add(6);
         }
+
         System.out.println(copy);
     }
 }
