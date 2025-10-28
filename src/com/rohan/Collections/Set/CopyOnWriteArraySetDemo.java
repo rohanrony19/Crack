@@ -30,7 +30,6 @@ public class CopyOnWriteArraySetDemo {
 
 
 
-
         System.out.println(copy);
     }
 }
