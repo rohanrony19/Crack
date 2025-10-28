@@ -12,6 +12,5 @@ public class ImmutableMapDemo {
         Map<String,Integer> map2 = Collections.unmodifiableMap(map1);
         System.out.println(map2);
         map2.put("C",3); // throws exception bcz its immutable
-
     }
 }
