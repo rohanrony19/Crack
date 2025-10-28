@@ -28,6 +28,7 @@ public class CopyOnWriteArraySetDemo {
             copy.add(6);
         }
 
+
         System.out.println(copy);
     }
 }
