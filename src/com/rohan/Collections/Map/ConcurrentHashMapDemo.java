@@ -25,5 +25,5 @@ public class ConcurrentHashMapDemo {
         }
         System.out.println("Final Size of HashMap : " + map.size() );
     }
-    }
+}
 

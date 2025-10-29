@@ -13,7 +13,6 @@ public class EnumMapDemo {
         System.out.println(Day.TUESDAY.ordinal());
         map.forEach((day,task)-> System.out.println(day + " -> " + task));
     }
-
 }
 
 enum Day{
