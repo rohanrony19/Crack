@@ -14,7 +14,6 @@ public class EnumMapDemo {
         map.forEach((day,task)-> System.out.println(day + " -> " + task));
     }
 
-
 }
 
 enum Day{
