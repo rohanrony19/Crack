@@ -16,6 +16,7 @@ public class ConcurrentHashMapDemo {
                 map.put(i,"Thread2");
             }
         });
+
         thread1.start();
         thread2.start();
         try{
