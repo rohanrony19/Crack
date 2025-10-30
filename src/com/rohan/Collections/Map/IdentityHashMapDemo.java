@@ -9,6 +9,7 @@ public class IdentityHashMapDemo {
         String key2 = new String("key");
 
         Map<String,Integer> map = new IdentityHashMap<>();
+
         System.out.println(System.identityHashCode(key1));
         System.out.println(System.identityHashCode(key2));
         System.out.println(key1.hashCode());
