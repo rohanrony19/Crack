@@ -36,6 +36,5 @@ public class HashMapDemo {
         System.out.println(hashMap);
         hashMap.remove(3,"nithin");
         System.out.println(hashMap);
-
     }
 }
