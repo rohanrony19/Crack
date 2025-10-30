@@ -32,6 +32,7 @@ public class HashMapDemo {
         for (Map.Entry<Integer, String> entry:entries){
             System.out.println(entry.getKey() + " " + entry.getValue().toUpperCase());
         }
+
         System.out.println(hashMap);
         hashMap.remove(3,"nithin");
         System.out.println(hashMap);
