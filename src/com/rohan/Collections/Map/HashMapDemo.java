@@ -29,6 +29,7 @@ public class HashMapDemo {
         }
 
         Set<Map.Entry<Integer, String>> entries = hashMap.entrySet();
+
         for (Map.Entry<Integer, String> entry:entries){
             System.out.println(entry.getKey() + " " + entry.getValue().toUpperCase());
         }
