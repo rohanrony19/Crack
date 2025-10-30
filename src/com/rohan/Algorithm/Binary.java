@@ -26,5 +26,6 @@ public class Binary {
         int key =400;
         int res=search(arr,key);
         System.out.println(res);
-    }}
+    }
+}
 
