@@ -30,6 +30,5 @@ public class LinkedHashMapDemo {
         for (Map.Entry<String,Integer> entry: hashMap.entrySet()){
             System.out.println(entry.getKey() + ": " + entry.getValue());
         }
-
     }
 }
