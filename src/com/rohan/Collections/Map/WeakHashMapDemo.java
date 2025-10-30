@@ -12,6 +12,7 @@ public class WeakHashMapDemo {
         System.gc();
         System.out.println("Cache after running (some entries may be cleared): " + imageCache);
     }
+
     private static void simulateApplicationRunning(){
         try{
             System.out.println("Simulating application running...");
