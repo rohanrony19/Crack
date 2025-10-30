@@ -14,6 +14,7 @@ public class IdentityHashMapDemo {
         System.out.println(System.identityHashCode(key2));
         System.out.println(key1.hashCode());
         System.out.println(key2.hashCode());
+
         map.put(key1,1);
         map.put(key2,2);
         System.out.println(key1.equals(key2));
