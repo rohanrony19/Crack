@@ -7,6 +7,7 @@ public class IdentityHashMapDemo {
     public static void main(String[] args) {
         String key1 = new String("key");
         String key2 = new String("key");
+
         Map<String,Integer> map = new IdentityHashMap<>();
         System.out.println(System.identityHashCode(key1));
         System.out.println(System.identityHashCode(key2));
