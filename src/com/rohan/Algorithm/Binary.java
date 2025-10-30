@@ -2,7 +2,6 @@ package com.rohan.Algorithm;
 // Time Complexity = O(log n)
 // Space Complexity = O(1)
 public class Binary {
-
     public static int search(int [] arr,int key){
         int start=0;
         int end=arr.length-1;
