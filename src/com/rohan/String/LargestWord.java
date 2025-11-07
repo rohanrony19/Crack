@@ -20,5 +20,18 @@ public class LargestWord {
         }
         String largest = sentence.substring(startOfLargest, startOfLargest + maxLen);
         System.out.println("Largest word " + largest );
+
+//        leetcode
+//        int Len = 0;
+//        int i = s.length()-1;
+//
+//        while(i>=0 && s.charAt(i) == ' '){
+//            i--;
+//        }
+//        while(i>=0 && s.charAt(i) != ' '){
+//            Len++;
+//            i--;
+//        }
+//        return Len;
     }
 }
