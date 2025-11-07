@@ -12,7 +12,6 @@ public class ReverseWordsInPlace {
                 start = end + 1;
             }
         }
-
         System.out.println(sentence);
     }
 
