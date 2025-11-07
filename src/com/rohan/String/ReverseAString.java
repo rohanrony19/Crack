@@ -1,7 +1,7 @@
 package com.rohan.String;
 // Time Complexity = O(n)
 // Space Complexity - O(1)
-public class ReverseAString {
+public class    ReverseAString {
     static void rev(String name){
         char[] arr = name.toCharArray();
         int start = 0, end = arr.length-1;
