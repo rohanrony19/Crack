@@ -15,6 +15,5 @@ public class ReverseAWord {
             reversedSentence.append(reversedWord.append(" "));
         }
         System.out.println("Reversed words in sentence: " + reversedSentence.toString().trim());
-
     }
 }
