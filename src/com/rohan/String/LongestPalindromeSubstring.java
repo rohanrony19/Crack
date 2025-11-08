@@ -28,7 +28,6 @@ public class LongestPalindromeSubstring {
         }
 
 
-
         return s.substring(start, start + maxLen);
     }
 
