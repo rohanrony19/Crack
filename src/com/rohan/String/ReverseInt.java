@@ -1,8 +1,7 @@
 package com.rohan.String;
-
+//leetcode = 7
 public class ReverseInt {
-    public static void main(String[] args) {
-        int x = -123;
+    public static int reverse(int x) {
         int rev = 0;
          while (x != 0) {
         int pop = x % 10;
@@ -11,6 +10,12 @@ public class ReverseInt {
         if (rev < Integer.MIN_VALUE/10 || (rev == Integer.MIN_VALUE / 10 && pop < -8)) return 0;
         rev = rev * 10 + pop;
     }
-        System.out.println(rev);
+        return rev;
+    }
+
+    public static void main(String[] args) {
+        int x = -123;
+        int result = reverse(x);
+        System.out.println(result);
     }
 }
