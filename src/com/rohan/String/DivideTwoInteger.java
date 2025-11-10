@@ -11,7 +11,6 @@ public class DivideTwoInteger {
     public static void main(String[] args) {
         int dividend = 7;
         int divisor = -3;
-
         int result = divide(dividend,divisor);
         System.out.println(result);
     }
