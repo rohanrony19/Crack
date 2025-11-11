@@ -16,5 +16,4 @@ public class SearchInsertPosition {
         int result = searchInsert(nums,target);
         System.out.println(result);
     }
-
 }
