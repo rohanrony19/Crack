@@ -28,5 +28,6 @@ public class ValidParentheses {
         String s = "()[]{}";
         boolean res = isValid(s);
         System.out.println(res);
+
     }
 }
