@@ -16,6 +16,7 @@ public class SearchInsertPosition {
 
 
 
+
         int target = 5;
         int result = searchInsert(nums,target);
         System.out.println(result);
