@@ -20,6 +20,12 @@ public class ConvertIntegerToString {
         String str1 = intToStr(1234);
         String str2 = intToStr(-5678);
 
+//        int num = Integer.parseInt((String) str1);
+//        String name = String.valueOf((int) num);
+//
+//        System.out.println("String: " + num + ", Datatype: " + ((Object) num).getClass().getSimpleName());
+//        System.out.println("String: " + name + ", Datatype: " + name.getClass().getSimpleName());
+
         System.out.println("String: " + str1 + ", Datatype: " + str1.getClass().getSimpleName());
         System.out.println("String: " + str2 + ", Datatype: " + str2.getClass().getSimpleName());
 
