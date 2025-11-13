@@ -11,7 +11,6 @@ public class SumAndAverage {
         }
 
 
-
         
         double avg = (double) sum/arr.length;
         System.out.println(sum);
