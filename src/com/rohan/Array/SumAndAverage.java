@@ -10,7 +10,6 @@ public class SumAndAverage {
             sum = sum + arr[i];
         }
         
-
         double avg = (double) sum/arr.length;
         System.out.println(sum);
         System.out.println(avg);
