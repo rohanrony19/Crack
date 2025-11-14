@@ -10,7 +10,6 @@ public class RemoveDuplicates {
                 j++;
                 arr[j] = arr[i];
             }
-
         }
         for (int i = 0; i <= j ; i++) {
             System.out.print(arr[i] + " ");
