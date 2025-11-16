@@ -15,6 +15,7 @@ public class SecondLargest {
                 second = num;
             }
         }
+
         
         System.out.println("First Largest : " + first);
         System.out.println("Second Largest : " + second);
