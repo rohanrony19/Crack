@@ -9,5 +9,6 @@ public class MissingNumber {
         int actualSum = 0;
         for (int num:arr) actualSum = actualSum + num;
         System.out.println("Missing Number: " + (sum-actualSum));
+        
     }
 }
