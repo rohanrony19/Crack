@@ -12,7 +12,6 @@ public class RemoveDuplicates {
                 seen[c] = true;
             }
         }
-        
         System.out.println("String after removing duplicates: " + result.toString());
     }
 }
