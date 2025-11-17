@@ -10,6 +10,7 @@ public class MissingNumber {
         for (int num:arr) actualSum = actualSum + num;
         System.out.println("Missing Number: " + (sum-actualSum));
 
+
         
     }
 }
