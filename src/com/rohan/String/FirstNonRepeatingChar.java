@@ -10,6 +10,7 @@ public class FirstNonRepeatingChar {
             freq[str.charAt(i)]++;
         }
 
+
         
         for (int i = 0; i < str.length(); i++) {
             if (freq[str.charAt(i)] == 1) {
