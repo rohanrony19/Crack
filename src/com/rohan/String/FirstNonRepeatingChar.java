@@ -12,7 +12,6 @@ public class FirstNonRepeatingChar {
 
 
 
-
         
         for (int i = 0; i < str.length(); i++) {
             if (freq[str.charAt(i)] == 1) {
