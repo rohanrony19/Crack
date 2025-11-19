@@ -9,7 +9,7 @@ public class FirstNonRepeatingChar {
         for (int i = 0; i < str.length(); i++) {
             freq[str.charAt(i)]++;
         }
-        
+
         for (int i = 0; i < str.length(); i++) {
             if (freq[str.charAt(i)] == 1) {
                 System.out.println("First non-repeating: " + str.charAt(i));
