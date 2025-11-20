@@ -21,6 +21,7 @@ public class LongestCommonPrefix {
             }
         }
         return prefix;
+
     }
 
     public static void main(String[] args) {
