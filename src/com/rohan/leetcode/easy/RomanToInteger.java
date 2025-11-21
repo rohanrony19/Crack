@@ -39,7 +39,6 @@ public class RomanToInteger {
         return ans;
     }
 
-
     
     public static void main(String[] args) {
         String s = "MCMXCIV";
