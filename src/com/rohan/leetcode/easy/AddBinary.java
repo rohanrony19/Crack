@@ -26,7 +26,9 @@ public class AddBinary {
                 j--;
             }
             sb.append(sum % 2);
+            carry = sum/2;
         }
+        return 
     }
 
     public static void main(String[] args) {
