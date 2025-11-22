@@ -12,6 +12,10 @@ package com.rohan.leetcode.easy;
 public class AddBinary {
     public static String addBinary(String a,String b){
         StringBuilder sb = new StringBuilder();
+        int i = a.length()-1;
+        int j = b.length()-1;
+        int carry = 0;
+        
     }
 
     public static void main(String[] args) {
