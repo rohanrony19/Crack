@@ -19,7 +19,10 @@ public class LengthOfLastWord {
     public static int lengthOfLastWord(String s){
         int Len = 0;
         int i = s.length()-1;
-        while ()
+        while (i>=0 && s.charAt(i) == ' '){
+            i--;
+        }
+        
     }
 
     public static void main(String[] args) {
