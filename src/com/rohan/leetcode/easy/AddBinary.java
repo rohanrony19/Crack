@@ -28,7 +28,7 @@ public class AddBinary {
             sb.append(sum % 2);
             carry = sum/2;
         }
-        return 
+        return sb.reverse().toString();
     }
 
     public static void main(String[] args) {
