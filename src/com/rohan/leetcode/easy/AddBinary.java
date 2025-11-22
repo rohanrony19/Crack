@@ -25,6 +25,7 @@ public class AddBinary {
                 sum += b.charAt(j) - '0';
                 j--;
             }
+            sb.append(sum % 2);
         }
     }
 
