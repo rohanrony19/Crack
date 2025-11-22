@@ -16,11 +16,15 @@ package com.rohan.leetcode.easy;
 //Explanation: The last word is "joyboy" with length 6.
 
 public class LengthOfLastWord {
-    public int lengthOfLastWord(String s){
-
+    public static int lengthOfLastWord(String s){
+        int Len = 0;
+        int i = s.length()-1;
+        while ()
     }
 
     public static void main(String[] args) {
-
+        String s = "luffy is still joyboy";
+        int res = lengthOfLastWord(s);
+        System.out.println(res);
     }
 }
