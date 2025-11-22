@@ -22,7 +22,7 @@ public class LengthOfLastWord {
         while (i>=0 && s.charAt(i) == ' '){
             i--;
         }
-        
+        while(i>=0)
     }
 
     public static void main(String[] args) {
