@@ -15,6 +15,8 @@ package com.rohan.leetcode.easy;
 //Output: 6
 //Explanation: The last word is "joyboy" with length 6.
 
+// t = O(n),s = O(1)
+
 public class LengthOfLastWord {
     public static int lengthOfLastWord(String s){
         int Len = 0;
@@ -26,7 +28,7 @@ public class LengthOfLastWord {
             Len++;
             i--;
         }
-
+        return Len;
     }
 
     public static void main(String[] args) {
