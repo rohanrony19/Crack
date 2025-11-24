@@ -36,7 +36,6 @@ public class LengthOfLastWord {
         int res = lengthOfLastWord(s);
         System.out.println(res);
 
-
         
     }
 }
