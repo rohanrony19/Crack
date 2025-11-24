@@ -35,7 +35,6 @@ public class LengthOfLastWord {
         String s = "luffy is still joyboy";
         int res = lengthOfLastWord(s);
         System.out.println(res);
-
         
     }
 }
