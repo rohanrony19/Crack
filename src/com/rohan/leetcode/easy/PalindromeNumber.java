@@ -29,7 +29,7 @@ public class PalindromeNumber {
     }
 
     public static void main(String[] args) {
-        int x = 12321; 
+        int x = 12321;
         boolean res = isPalindrome(x);
         System.out.println(res);
     }
