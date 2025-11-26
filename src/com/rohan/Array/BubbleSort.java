@@ -19,6 +19,7 @@ public class BubbleSort {
             }
             if(!swapped)break;
         }
+        
         System.out.print("Sorted array: ");
         for (int n : arr) System.out.print(n + " ");
 //        System.out.println(Arrays.toString(arr));
