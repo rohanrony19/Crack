@@ -17,6 +17,7 @@ public class SelectionSort {
 
 
 
+
             
             int temp = arr[minIndex];
             arr[minIndex] = arr[i];
