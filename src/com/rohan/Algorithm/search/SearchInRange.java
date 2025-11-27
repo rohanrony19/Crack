@@ -14,7 +14,6 @@ public class SearchInRange {
             if(arr[index] == target){
                 return index;
             }
-
             
         }
         return -1;
