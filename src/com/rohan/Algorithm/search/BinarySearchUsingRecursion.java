@@ -1,10 +1,10 @@
-package com.rohan.Algorithm;
+package com.rohan.Algorithm.search;
 // Time Complexity = O(log n)
 // Space Complexity = O(log n)
 public class BinarySearchUsingRecursion {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,55,68,74};
-        int target = 1;
+        int target = 4;
         System.out.println(binary(arr,target,0, arr.length-1));
     }
 
