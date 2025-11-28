@@ -16,8 +16,7 @@ public class SearchIn2DArray {
     }
 
 
-
-
+    
 
     
     static int[] search(int[][] arr,int target){
