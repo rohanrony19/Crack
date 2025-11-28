@@ -16,6 +16,7 @@ public class SearchIn2DArray {
     }
 
 
+
     
     static int[] search(int[][] arr,int target){
         if(arr.length == 0)return new int[]{-1,-1};
