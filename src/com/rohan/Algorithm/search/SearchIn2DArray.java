@@ -14,7 +14,6 @@ public class SearchIn2DArray {
         System.out.println(Arrays.toString(ans));
         System.out.println(max(arr));
     }
-
     
 
     
