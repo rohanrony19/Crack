@@ -1,5 +1,10 @@
 package com.rohan.Algorithm.search;
-
+/*
+Time Complexity
+Best case = O(1), Worst case = O(n)
+Space Complexity = O(1)
+ */
+// Sequential
 public class Linear {
   public static int search(int []arr, int target){
       if(arr.length == 0) return -1;
