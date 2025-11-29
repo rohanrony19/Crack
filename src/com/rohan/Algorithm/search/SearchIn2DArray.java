@@ -14,7 +14,7 @@ public class SearchIn2DArray {
         System.out.println(Arrays.toString(ans));
         System.out.println(max(arr));
     }
-    
+
     static int[] search(int[][] arr,int target){
         if(arr.length == 0)return new int[]{-1,-1};
         for (int row = 0; row < arr.length; row++) {
