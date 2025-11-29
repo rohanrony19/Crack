@@ -22,6 +22,7 @@ public class Binary {
 
 
 
+
             
         }
         return -1;
