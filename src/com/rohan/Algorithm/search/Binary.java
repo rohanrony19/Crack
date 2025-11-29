@@ -19,6 +19,7 @@ public class Binary {
                   return mid;
             }
 
+
             
         }
         return -1;
