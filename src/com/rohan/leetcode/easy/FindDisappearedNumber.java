@@ -40,6 +40,7 @@ public class FindDisappearedNumber {
             }
         }
         return ans;
+        
     }
 
     static void swap(int[] arr,int first,int second){
