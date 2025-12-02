@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 
 import java.util.Scanner;
 // Time Complexity = O(n)
