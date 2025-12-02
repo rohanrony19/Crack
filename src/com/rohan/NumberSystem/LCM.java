@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 // The smallest number that is a multiple of both.  ->  LCM(12, 18) = 36 -> 6 * 6 = 36
 // Time Complexity = O(log(min(a,b)))
 // Space Complexity = O(n)
