@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 // Highest common Factor both a and b which are divisible by highest number
 // The largest number that divides both numbers.  ->  GCD(12, 18) = 6
 // Time Complexity = O(log(min(a,b)))
