@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 
 public class Palindrome {
     public static void main(String[] args) {
