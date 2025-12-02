@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 // Optimized method
 // Time Complexity = O(sqrt(n)) less
 // Space Complexity = O(1)
