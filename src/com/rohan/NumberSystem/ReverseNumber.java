@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 
 public class ReverseNumber {
     public static int reverse(int n){
