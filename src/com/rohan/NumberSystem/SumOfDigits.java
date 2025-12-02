@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 
 public class SumOfDigits {
     public static int sumDigits(int n){
