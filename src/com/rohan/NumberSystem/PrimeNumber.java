@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 // Brute Force method
 // Time Complexity = O(n)
 // Space Complexity = O(1)
