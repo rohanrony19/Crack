@@ -1,4 +1,4 @@
-package com.rohan.NumberBased;
+package com.rohan.NumberSystem;
 //1^3+5^3+3^3 = 153
 // Time Complexity = O(log10n)==O(d)
 // Space Complexity = O(n)
