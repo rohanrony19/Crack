@@ -1,4 +1,4 @@
-package com.rohan.Algorithm;
+package com.rohan.Algorithm.recursion;
 
 //public class Recursion {
 //    public static void main(String[] args) {
@@ -35,7 +35,8 @@ package com.rohan.Algorithm;
 
 public class Recursion {
     public static void main(String[] args) {
-            digit(1);
+//            digit(1);
+            dig(5);
         }
         static void digit(int n){
             if(n>5){     // Base condition
@@ -43,6 +44,13 @@ public class Recursion {
             }
             System.out.println(n);
             digit(n+1);   // Recursion
+        }
+        static void dig(int n){
+            if(n == 0){
+                return;
+            }
+            System.out.println(n);
+            dig(n-1);
         }
     }
 
