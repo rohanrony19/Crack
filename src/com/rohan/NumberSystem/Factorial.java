@@ -1,6 +1,6 @@
 package com.rohan.NumberSystem;
-
 import java.util.Scanner;
+// 5*4*3*2*1
 // Time Complexity = O(n)
 // Space Complexity = O(1)
 public class Factorial {
