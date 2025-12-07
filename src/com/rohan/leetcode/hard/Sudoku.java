@@ -22,7 +22,6 @@ public class Sudoku {
         System.out.println("\nAfter Solving:");
         printBoard(board);
 
-
         
     }
 
