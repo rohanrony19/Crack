@@ -15,6 +15,7 @@ public class Maze {
                 {true,true,true}
         };
 
+
         
         pathWithObstacles("",board,0,0);
     }
