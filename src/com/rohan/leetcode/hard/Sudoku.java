@@ -23,7 +23,6 @@ public class Sudoku {
         printBoard(board);
 
 
-
         
     }
 
