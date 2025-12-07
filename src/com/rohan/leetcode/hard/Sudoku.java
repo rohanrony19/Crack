@@ -21,7 +21,6 @@ public class Sudoku {
 
         System.out.println("\nAfter Solving:");
         printBoard(board);
-        
     }
 
     public static void solveSudoku(char[][] board) {
