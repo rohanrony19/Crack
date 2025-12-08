@@ -109,6 +109,8 @@ public class LL {
         return val;
     }
 
+    // insert
+
     public void display(){
         Node temp = head;
         while (temp != null){
