@@ -109,7 +109,7 @@ public class LL {
         return val;
     }
 
-    // insert
+    // insert using recursion
 
     public void display(){
         Node temp = head;
