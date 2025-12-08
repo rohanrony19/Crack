@@ -1,4 +1,4 @@
-package com.rohan.Collections.List;
+package com.rohan.Collections.List.linkedlist;
 
 import java.util.Arrays;
 import java.util.LinkedList;
