@@ -110,7 +110,7 @@ public class LL {
     }
 
     // insert using recursion
-    public void insertRec(int val,int in)
+    public void insertRec(int val,int ind)
 
     public void display(){
         Node temp = head;
