@@ -111,7 +111,7 @@ public class LL {
 
     // insert using recursion
     public void insertRec(int val,int index){
-        
+
     }
 
     public void display(){
