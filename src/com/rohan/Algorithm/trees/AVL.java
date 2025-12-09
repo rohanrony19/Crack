@@ -137,7 +137,6 @@ public class AVL {
         populateSorted(nums, mid + 1, end);
     }
 
-
     
     public static void main(String[] args) {
         AVL tree = new AVL();
