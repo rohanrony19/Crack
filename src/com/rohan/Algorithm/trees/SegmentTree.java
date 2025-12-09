@@ -52,6 +52,7 @@ public class SegmentTree {
     public void display(){
         display(this.root);
     }
+
     
     private void display(Node node){
         String str = "";
