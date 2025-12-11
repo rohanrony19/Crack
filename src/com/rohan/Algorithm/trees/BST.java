@@ -29,8 +29,6 @@ public class BST {
         return node.height;
     }
 
-
-
     
     public boolean isEmpty(){
         return root == null;
