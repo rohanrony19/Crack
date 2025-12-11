@@ -49,6 +49,7 @@ public class SegmentTree {
         return node;
     }
 
+    
     public void display(){
         display(this.root);
     }
