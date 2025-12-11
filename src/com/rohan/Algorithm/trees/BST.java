@@ -30,6 +30,7 @@ public class BST {
     }
 
 
+
     
     public boolean isEmpty(){
         return root == null;
