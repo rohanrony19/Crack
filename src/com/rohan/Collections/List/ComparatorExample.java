@@ -22,7 +22,6 @@ class MyComparator implements Comparator<Integer>{
     public int compare(Integer o1, Integer o2) {
         return o2-o1; // returns negative for ascending
     }
-
 }
 
 // 5 3 = 2 < o2-o1
