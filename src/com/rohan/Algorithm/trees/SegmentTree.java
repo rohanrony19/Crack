@@ -48,7 +48,7 @@ public class SegmentTree {
         node.data = node.left.data + node.right.data;
         return node;
     }
-    
+
     public void display(){
         display(this.root);
     }
