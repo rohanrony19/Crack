@@ -13,6 +13,7 @@ class StringLengthComparator implements Comparator<String>{
         return s1.length()-s2.length(); // shorter to longer length
     }
 }
+
 // ok = s1 < s1 - s2
 // bye = s2 < s2 - s1
 class MyComparator implements Comparator<Integer>{
