@@ -24,6 +24,7 @@ class MyComparator implements Comparator<Integer>{
     }
 
 }
+
 // 5 3 = 2 < o2-o1
 // 3 5 = -2 < o1-o2
 public class ComparatorExample {
