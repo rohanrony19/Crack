@@ -1,0 +1,159 @@
+✅ PHASE 1: Foundations (7–10 days)
+Master basics before jumping to big problems.
+1. Core Java Essentials (DSA Requirements Only)
+Arrays
+Strings
+Loops
+Functions
+Recursion basics
+Time complexity (Big-O)
+OOP – only needed parts: Class, Object, Constructor, Static, Interface basics
+➡️ Practice 20 easy problems per topic.
+
+✅ PHASE 2: Arrays (10–14 days)
+Arrays are the most asked topic in coding rounds.
+You must master:
+Prefix sum
+Sliding window
+Two pointers
+Kadane’s algorithm
+Sorting tricks
+Binary search on arrays
+Hashing with arrays
+Must-solve problems:
+Two Sum
+Best Time to Buy & Sell Stock
+Kadane (max subarray)
+Move zeros
+Merge sorted arrays
+Rotate array
+Find missing number
+Searching (binary search variations)
+
+✅ PHASE 3: Strings (5–7 days)
+Topics:
+Palindrome
+Frequency count
+Two pointer
+StringBuilder
+Anagram
+Sliding window on string
+Problems:
+Valid Anagram
+Longest substring without repeating
+Reverse words
+Longest palindrome
+First non-repeating char
+
+✅ PHASE 4: Recursion + Backtracking (7–10 days)
+You must cover:
+Basic recursion
+Permutations
+Combinations
+Subset generation
+N-Queens
+Maze problems
+Backtracking template
+
+✅ PHASE 5: Searching & Sorting (5–7 days)
+Bubble, Selection, Insertion
+Merge Sort
+Quick Sort
+Binary search full mastery
+Binary search on answer → must-learn
+Problems:
+Search in rotated sorted array
+Peak element
+Koko eating bananas
+Allocate pages problem
+
+✅ PHASE 6: Linked List (7–10 days)
+Concepts:
+Reverse LL
+Slow & fast pointer
+Detect cycle
+Remove cycle
+Merge 2 sorted lists
+Middle element
+Palindrome check
+Add 2 numbers
+
+✅ PHASE 7: Stack & Queue (5–7 days)
+Topics:
+Stack using array
+Stack using LL
+Queue / Circular queue
+Monotonic stack → (VERY IMPORTANT)
+Problems:
+Valid parentheses
+Next greater element
+Min stack
+Daily temperatures
+
+✅ PHASE 8: HashMap & Set (4–6 days)
+You must learn:
+HashMap
+TreeMap
+HashSet
+LinkedHashMap
+Frequency maps
+Map trick questions
+Problems:
+Two sum using map
+Group anagrams
+Longest consecutive sequence
+Frequency problems (VERY IMPORTANT)
+
+✅ PHASE 9: Trees (10–14 days)
+Very important for interviews.
+Topics:
+Binary tree basics
+BFS, DFS
+Preorder, Inorder, Postorder
+Level order
+Height, diameter
+Balanced tree
+Lowest common ancestor
+Binary Search Tree (BST)
+
+✅ PHASE 10: Heaps & Priority Queue (5–7 days)
+Topics:
+Min heap
+Max heap
+Heapify
+K largest
+Kth largest element
+Merge k sorted lists
+
+✅ PHASE 11: Graphs (12–15 days)
+Topics:
+BFS
+DFS
+Cycle detection (directed & undirected)
+Topological sort
+Dijkstra
+Prim
+Kruskal
+Union-Find
+
+✅ PHASE 12: DP (Dynamic Programming) (20–25 days)
+This is the final boss for interviews.
+Start with:
+Fibonacci DP
+Climbing stairs
+Coin change
+Knapsack
+Longest increasing subsequence
+Longest common subsequence
+DP on grid
+Palindrome DP
+DP state patterns (MUST LEARN)
+
+🔥 DAILY PLAN (Follow This)
+Day 1 → 10: Arrays + Strings
+Day 11 → 20: Searching + Sorting + Recursion
+Day 21 → 30: LinkedList + Stack + Queue
+Day 31 → 45: Trees + BST
+Day 46 → 55: Graphs
+Day 56 → 80: DP
+Day 80 → 90: Mixed revision + mock tests
