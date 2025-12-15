@@ -6,11 +6,17 @@ public class DFSForBinaryTree {
         Node left;
         Node right;
 
+        Node(){}
         Node(int value) {
             this.value = value;
         }
+        public Node(int value, Node left, Node right) {
+            this.value = value;
+            this.left = left;
+            this.right = right;
+        }
     }
-    
+
     public static class BinaryTreeDFS {
 
         // Preorder DFS (Root - Left - Right)
