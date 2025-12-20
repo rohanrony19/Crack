@@ -24,6 +24,13 @@ public class Linear {
     public static void main(String[] args) {
         int [] arr = {10,20,30,80,50,60};  // index 5 , length 6
         int target = 50;
+
+        for(int i = 0; i < arr.length; i++){
+            if(arr[i] == target){
+                System.out.println(i);
+                break;//index
+            }
+        }
         int res = search(arr,target);
         System.out.println(res);
     }}
