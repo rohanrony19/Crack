@@ -10,10 +10,10 @@ public class Bubble {
     }
 
     static void bubble(int[] arr){
-        boolean swapped;
+//        boolean swapped;
         // run the steps n-1 times
         for (int i = 0; i < arr.length; i++) {
-            swapped = false;
+            boolean swapped = false;
             // for each step, max item will come at the last
             for (int j = 1; j < arr.length - i; j++) {
                 // swap if the item is smaller than the previous item
