@@ -1,4 +1,4 @@
-package com.practice.arrays.sorting.basic;
+package com.practice.arraysANDstrings.sorting.basic;
 
 import java.util.Arrays;
 
