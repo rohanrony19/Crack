@@ -1,4 +1,4 @@
-package com.practice.arrays.basic;
+package com.practice.arraysANDstrings.arrays.basic;
 
 public class ArraySum {
     public static void main(String[] args) {
