@@ -1,4 +1,4 @@
-package com.practice.arrays.sorting.basic;
+package com.practice.arraysANDstrings.sorting.basic;
 
 import java.util.Arrays;
 
@@ -31,6 +31,7 @@ public class AllInOne {
     }
 
     public static int linear(int[] arr,int target){
+        //{1,3,5,2,4} , 2
         for (int i = 0; i < arr.length; i++) {
             if(arr[i] == target){
                 return i;
@@ -40,6 +41,7 @@ public class AllInOne {
     }
 
     public static int binary(int[] arr,int target){
+        //{1,3,5,2,4} , 2
         int start = 0,end = arr.length-1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
@@ -55,6 +57,7 @@ public class AllInOne {
     }
 
     public static int[] bubble(int[] arr){
+        //{8,5,1,2,3,4}
         for (int i = 0; i < arr.length; i++) {
             boolean swapped = false;
             for (int j =  1; j < arr.length-i; j++) {
@@ -70,8 +73,9 @@ public class AllInOne {
         return arr;
     }
 
-    // descending
+    // descending = 8,5,4,3,2,1
     public static int[] selection(int[] arr){
+        //{8,5,1,2,3,4}
         for (int i = 0; i < arr.length-1; i++) {
             int max = i; // 0
 
@@ -87,8 +91,9 @@ public class AllInOne {
         return arr;
     }
 
-    // ascending
+    // ascending = 1,2,3,4,5,8
     public static int[] selection1(int[] arr){
+        //{8,5,1,2,3,4}
         for (int i = 0; i < arr.length; i++) {
             int min = i;
             for (int j = i+1; j < arr.length; j++) {
@@ -104,6 +109,7 @@ public class AllInOne {
     }
 
     public static int[] insertion(int[] arr){
+        //{8,5,1,2,3,4}
         for (int i = 1; i < arr.length; i++) {
             int key = arr[i];
             int j = i-1;
