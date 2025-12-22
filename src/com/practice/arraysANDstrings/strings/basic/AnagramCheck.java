@@ -1,4 +1,4 @@
-package com.practice.strings.basic;
+package com.practice.arraysANDstrings.strings.basic;
 
 import java.util.Arrays;
 
