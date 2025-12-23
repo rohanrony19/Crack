@@ -1,4 +1,4 @@
-package com.rony.dsa.arrays.slidingwindow.variableslidingwindow;
+package com.rony.dsa.strings.slidingwindow.variableSW;
 
 import java.util.HashMap;
 
