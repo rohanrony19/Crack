@@ -16,7 +16,6 @@ public class CountAnagrams {
         for (char c : p.toCharArray()){
             freqP[c - 'a']++;
         }
-
         
         int i = 0,j = 0,count = 0;
 
