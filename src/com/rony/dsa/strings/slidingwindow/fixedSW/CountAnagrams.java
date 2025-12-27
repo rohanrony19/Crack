@@ -17,6 +17,7 @@ public class CountAnagrams {
             freqP[c - 'a']++;
         }
 
+
         
         int i = 0,j = 0,count = 0;
 
