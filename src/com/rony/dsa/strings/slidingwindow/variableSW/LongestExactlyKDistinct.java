@@ -9,7 +9,6 @@ public class LongestExactlyKDistinct {
 
         int i = 0, j = 0, max = 0;
 
-
         HashMap<Character, Integer> map = new HashMap<>();
 
         while(j < s.length()) {
