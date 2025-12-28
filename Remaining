@@ -1,0 +1,203 @@
+🟦 PHASE 2 — Arrays & Strings Advanced (Remaining)
+✅ Step 6 — HashMap + HashSet Mastery (20 problems)
+
+HashMap basics
+Frequency map
+Two-sum (hashmap)
+Longest consecutive sequence
+Longest substring without repeat (hash approach)
+Group anagrams
+Union of arrays
+Intersection
+Count distinct
+HashSet duplicates
+Subarray sum = K (prefix + hashmap revisited)
+Status: Not done
+
+✅ Step 7 — Matrix / 2D Arrays (15 problems)
+
+Basic traversal
+Spiral matrix
+Rotate matrix
+Search in sorted matrix
+Matrix multiplication
+Count islands
+DFS/BFS on grid
+Word search
+Flood fill
+Status: Not done
+
+✅ Step 8 — Advanced String Algorithms (12 problems)
+
+KMP (prefix function)
+Z-function
+Rabin-Karp
+Longest prefix suffix
+Pattern matching
+Minimum window substring (done with sliding window, but again in string algorithms)
+Edit distance (DP intro)
+Count palindromic substrings
+Status: Not done
+🟪 PHASE 3 — Core Data Structures (10 Steps)
+These are the main DSA structures needed for interviews.
+
+✅ Step 9 — Stack (10 problems)
+
+Next greater element
+Valid parentheses
+Min stack
+Stock span
+Remove stars / simplify path
+Balanced expression
+Reverse stack recursion
+
+✅ Step 10 — Queue (10 problems)
+
+Circular queue
+Queue using stack
+Stack using queue
+First non-repeating char
+Sliding window maximum (deque)
+
+✅ Step 11 — Linked List (20 problems)
+
+Insert, delete, reverse
+Cycle detection (Floyd’s)
+Intersection of LL
+Remove Nth node
+Middle element
+Merge two sorted LL
+Merge k-sorted lists
+Palindrome linked list
+Flatten LL
+
+✅ Step 12 — Trees (Fundamentals) (20 problems)
+
+Traversals
+Height, diameter
+Count nodes, leaf nodes
+Balanced tree
+Mirror
+Inorder-successor
+Boundary traversal
+
+✅ Step 13 — BST (Binary Search Trees) (10 problems)
+
+Insert, delete
+Search
+Validate BST
+Lowest common ancestor
+Kth smallest
+Recover BST
+
+✅ Step 14 — Heap / Priority Queue (10 problems)
+
+Max heap / min heap
+K largest elements
+Kth smallest using heap
+Merge k sorted lists
+Median of stream
+
+✅ Step 15 — Graph Basics (15 problems)
+
+Graph representation
+DFS, BFS
+Connected components
+Bipartite graph
+Cycle detection
+
+✅ Step 16 — Shortest Path Algorithms (10 problems)
+
+Dijkstra
+Bellman-Ford
+Floyd-Warshall
+Topological sort
+DAG shortest path
+
+✅ Step 17 — Union-Find / Disjoint Set (8 problems)
+
+Find, Union
+Connected components
+Cycle detection
+Number of islands (DSU version)
+
+🟧 PHASE 4 — Advanced DSA + Problem Solving
+✅ Step 18 — Dynamic Programming Basics (12 problems)
+
+Fib (iterative, memo)
+Climbing stairs
+Knapsack
+Coin change
+Grid DP
+LIS basics
+
+✅ Step 19 — Dynamic Programming Medium (15 problems)
+
+LCS
+Edit distance
+Partition equal sum
+Maximum sum increasing subsequence
+Rod cutting
+Matrix chain multiplication (intro)
+
+✅ Step 20 — Greedy Algorithms (10 problems)
+
+Activity selection
+Job sequencing
+Fractional knapsack
+Huffman coding
+Minimum platforms
+
+✅ Step 21 — Backtracking Advanced (15 problems)
+
+N-Queens
+Sudoku
+Rat in maze
+Word search (again)
+Permutation with duplicates
+Combination sum
+
+✅ Step 22 — Bit Manipulation (10 problems)
+
+Count set bits
+Power of two
+XOR tricks
+Single number
+Flip bits to win
+Subset using bits
+
+✅ Step 23 — Trie Data Structure (10 problems)
+
+Insert, search
+Auto-complete
+Longest common prefix
+Word search II
+Prefix matching
+
+✅ Step 24 — Segment Tree / Fenwick Tree (10 problems)
+
+Range sum
+Range min
+Lazy propagation basics
+Fenwick tree updates
+
+✅ Step 25 — Advanced Graph Problems (10 problems)
+
+MST (Kruskal, Prim)
+Bridges
+Articulation points
+Kosaraju (SCC)
+Topological sort variations
+
+✅ Step 26 — 100+ Mixed Interview Problems
+
+Pure problem-solving practice set.
+
+✅ Step 27 — System Design (basic intro if needed)
+
+Optional for later.
+
+🔥 TOTAL STEPS REMAINING FOR YOU
+
+You completed: 13 steps
+Remaining: 15 steps
