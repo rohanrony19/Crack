@@ -15,9 +15,9 @@ Arrays are the most asked topic in coding rounds.
 You must master:
 Prefix sum
 Sliding window
-Two pointers
+Two pointers /
 Kadane’s algorithm
-Sorting tricks
+Sorting tricks /
 Binary search on arrays
 Hashing with arrays
 Must-solve problems:
