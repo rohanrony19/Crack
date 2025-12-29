@@ -24,7 +24,6 @@ public class LongestExactlyKDistinct {
                 i++;
             }
 
-
             j++;
         }
 
