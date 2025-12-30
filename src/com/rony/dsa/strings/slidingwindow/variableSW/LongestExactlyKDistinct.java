@@ -23,7 +23,6 @@ public class LongestExactlyKDistinct {
                 if(map.get(ch) == 0) map.remove(ch);
                 i++;
             }
-            
             j++;
         }
 
