@@ -14,7 +14,6 @@ public class DeleteNodeByValue {
         p2.name = "Amit";
 
 
-
         
 
         Person p3 = new Person();
