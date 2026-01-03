@@ -13,6 +13,7 @@ public class DeleteNodeByValue {
         Person p2 = new Person();
         p2.name = "Amit";
 
+
         Person p3 = new Person();
         p3.name = "Spandy";
 
