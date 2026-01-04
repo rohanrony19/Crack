@@ -29,7 +29,6 @@ public class DeleteNodeByValue {
         Person head = deleteByValue(p1,p2.name);
 
         printList(head);
-
     }
 
     static Person deleteByValue(Person head,String name){
