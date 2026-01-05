@@ -22,6 +22,12 @@ public class MiddleOfLL {
         Person p5 = new Person();
         p5.name = "Rahul";
 
+        p1.friend = p2;
+        p2.friend = p3;
+        p3.friend = p4;
+        p4.friend = p5;
+
+
     }
 
     static Person middle(Person head){
