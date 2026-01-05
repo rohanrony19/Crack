@@ -43,6 +43,6 @@ public class MiddleOfLL {
             slow = slow.friend;
             fast = fast.friend.friend;
         }
-
+        return slow;
     }
 }
