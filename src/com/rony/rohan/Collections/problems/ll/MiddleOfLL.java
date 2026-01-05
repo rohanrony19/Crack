@@ -10,6 +10,17 @@ public class MiddleOfLL {
         Person p1 = new Person();
         p1.name = "Rohan";
 
+        Person p2 = new Person();
+        p2.name = "Amit";
+
+        Person p3 = new Person();
+        p3.name = "Spandy";
+
+        Person p4 = new Person();
+        p4.name = "Pinky";
+
+        Person p5 = new Person();
+        p5.name = "Rahul";
 
     }
 
