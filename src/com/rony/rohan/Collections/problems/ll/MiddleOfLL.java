@@ -36,6 +36,13 @@ public class MiddleOfLL {
         if(head == null){
             return null;
         }
+        Person slow = head;
+        Person fast = head;
+
+        while (fast != null && fast.friend !=null){
+            slow = slow.friend;
+            fast = fast.friend.friend;
+        }
 
     }
 }
