@@ -31,6 +31,7 @@ public class MiddleOfLL {
         System.out.println("Middle person: " + middle.name);
     }
 
+
     static Person findMiddle(Person head){
 
         if(head == null){
