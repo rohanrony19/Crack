@@ -26,9 +26,10 @@ public class MiddleOfLL {
         p2.friend = p3;
         p3.friend = p4;
         p4.friend = p5;
-        
+
         Person middle = findMiddle(p1);
         System.out.println("Middle person: " + middle.name);
+
     }
 
     static Person findMiddle(Person head){
