@@ -31,7 +31,6 @@ public class MiddleOfLL {
         System.out.println("Middle person: " + middle.name);
 
 
-
         
     }
 
