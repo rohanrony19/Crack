@@ -32,7 +32,6 @@ public class MiddleOfLL {
 
 
 
-
     }
 
     static Person findMiddle(Person head){
