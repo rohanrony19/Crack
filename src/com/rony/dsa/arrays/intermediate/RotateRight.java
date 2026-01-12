@@ -26,7 +26,6 @@ public class RotateRight {
             arr[i] = rotated[i];
         }
 
-
         
         System.out.println(Arrays.toString(arr)); // 4,5,1,2,3
     }
