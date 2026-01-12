@@ -28,7 +28,6 @@ public class RotateRight {
 
 
 
-
         
         System.out.println(Arrays.toString(arr)); // 4,5,1,2,3
     }
