@@ -23,7 +23,6 @@ public class RotateRight {
         }
 
 
-
         for (int i = 0; i < n; i++) {
             arr[i] = rotated[i];
         }
