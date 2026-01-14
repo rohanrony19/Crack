@@ -21,8 +21,7 @@ public class RotateRight {
             i=4, r[(4+2)%5] = r[1],a[i] = a[4],  r[1] = a[4]
              */
         }
-
-
+        
 
 
 
