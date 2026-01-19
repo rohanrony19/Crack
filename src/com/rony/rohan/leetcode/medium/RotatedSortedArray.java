@@ -48,6 +48,7 @@ public class RotatedSortedArray {
             if(target < arr[mid]){
                 end = mid -1;
             }
+
             else if(target > arr[mid]){
                 start = mid + 1;
             }
