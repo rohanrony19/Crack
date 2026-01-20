@@ -33,7 +33,6 @@ public class Base {
     }
 
 
-    
 
     static int countPersons(Person head){
         int count = 0;
