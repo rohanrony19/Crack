@@ -32,6 +32,7 @@ public class Base {
         System.out.println("Total persons : " + count);
     }
 
+
     static int countPersons(Person head){
         int count = 0;
         Person current = head;
