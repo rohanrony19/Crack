@@ -24,7 +24,6 @@ public class InsertAtBeginning {
 
         printList(head);
     }
-    
 
     public static Person insertAtBeginning(Person head,String name){
         Person newPerson = new Person();
