@@ -27,7 +27,6 @@ public class InsertAtBeginning {
 
 
 
-
     
 
     public static Person insertAtBeginning(Person head,String name){
