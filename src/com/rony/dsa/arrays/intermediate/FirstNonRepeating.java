@@ -14,7 +14,7 @@ public class FirstNonRepeating {
 
         for (int n:arr){
             if(freq.get(n) == 1){
-                System.out.println(n);
+                System.out.println("First non-repeating: " + n);
                 break;
             }
         }
