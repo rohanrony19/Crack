@@ -13,7 +13,6 @@ public class ArraysEqual {
         //manual
         System.out.println("Manual check: " + areArrayEqual(a,b));
 
-
         
     }
 
