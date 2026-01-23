@@ -12,7 +12,6 @@ public class ArraysEqual {
 
         //manual
         System.out.println("Manual check: " + areArrayEqual(a,b));
-
     }
 
     public static boolean areArrayEqual(int[] a,int[] b){
