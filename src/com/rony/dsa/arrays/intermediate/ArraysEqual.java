@@ -14,7 +14,6 @@ public class ArraysEqual {
         System.out.println("Manual check: " + areArrayEqual(a,b));
 
 
-
         
     }
 
