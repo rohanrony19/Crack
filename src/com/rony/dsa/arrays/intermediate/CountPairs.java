@@ -6,6 +6,7 @@ public class CountPairs {
         int target = 6;
         int count = 0;
 
+
         
 
         for (int i = 0; i < arr.length; i++) {
