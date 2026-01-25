@@ -28,6 +28,7 @@ public class FreqCount {
 
         // Step 6: Print final frequency map
         System.out.println("Frequency count:");
+        
         for (Map.Entry<Integer, Integer> entry : freq.entrySet()) {
             System.out.println(entry.getKey() + " -> " + entry.getValue());
         }
