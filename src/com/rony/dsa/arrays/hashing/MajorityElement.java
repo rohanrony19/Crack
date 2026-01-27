@@ -23,7 +23,7 @@ public class MajorityElement {
         // Step 2: check majority
         int n = arr.length;
         boolean found = false;
-        
+
 
         for (Map.Entry<Integer,Integer> map:freq.entrySet()){
             if (map.getValue() > n/2){
