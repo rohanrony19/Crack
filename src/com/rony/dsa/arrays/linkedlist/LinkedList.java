@@ -63,6 +63,5 @@ public class LinkedList {
             temp = temp.next;
         }
         System.out.println("null");
-
     }
 }
