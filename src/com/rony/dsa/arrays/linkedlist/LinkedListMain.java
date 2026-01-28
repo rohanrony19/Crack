@@ -2,6 +2,7 @@ package com.rony.dsa.arrays.linkedlist;
 
 public class LinkedListMain {
     public static void main(String[] args) {
+        
         LinkedList ll = new LinkedList();
         ll.addLast(10);
         ll.addLast(20);
