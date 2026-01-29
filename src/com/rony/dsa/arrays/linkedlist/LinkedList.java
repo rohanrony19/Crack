@@ -56,6 +56,20 @@ public class LinkedList {
         System.out.println(slow.data);
     }
 
+    public Node reverse(){
+        Node prev = null;
+        Node curr = head;
+
+        while(curr != null){
+            Node next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        return prev;
+    }
+
+
     public void print(){
         Node temp = head;
         while(temp != null){
