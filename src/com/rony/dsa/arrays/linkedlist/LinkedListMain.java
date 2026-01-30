@@ -40,6 +40,7 @@ public class LinkedListMain {
         System.out.println(ll1.hasCycle());
 
         ll1.insertAtPosition(69,3);
+
         
 //        ll.removeCycle();
 //        ll.print();
