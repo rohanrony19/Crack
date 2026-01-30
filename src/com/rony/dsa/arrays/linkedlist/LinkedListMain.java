@@ -32,9 +32,16 @@ public class LinkedListMain {
 
         ll1.findMiddle();
 
-        ll1.deleteElement(30);
-        ll1.deleteElement(50);
+        ll1.deleteNode(30);
+        ll1.deleteNode(50);
 
         ll1.print();
+
+        System.out.println(ll1.hasCycle());
+
+        ll1.insertAtPosition(69,3);
+//        ll.removeCycle();
+//        ll.print();
+
     }
 }
