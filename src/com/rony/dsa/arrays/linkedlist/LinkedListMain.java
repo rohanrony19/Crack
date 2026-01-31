@@ -37,6 +37,7 @@ public class LinkedListMain {
 
         ll1.print();
 
+
         
 
         System.out.println(ll1.hasCycle());
