@@ -36,7 +36,6 @@ public class LinkedListMain {
         ll1.deleteNode(50);
 
         ll1.print();
-        
 
         System.out.println(ll1.hasCycle());
 
