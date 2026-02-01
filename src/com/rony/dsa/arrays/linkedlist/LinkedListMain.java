@@ -8,6 +8,7 @@ public class LinkedListMain {
 
         ll.addLast(20);
 
+
         
         ll.addLast(30);
         ll.addLast(40);
