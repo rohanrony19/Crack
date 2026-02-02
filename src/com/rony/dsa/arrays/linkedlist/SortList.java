@@ -24,6 +24,9 @@ public class SortList {
         Node RightHead = mid.next;
         mid.next = null;
 
-        Node left
+        Node left = mergeSort(head);
+        Node right = mergeSort(RightHead);
+
+        return merge(left,right);
     }
 }
