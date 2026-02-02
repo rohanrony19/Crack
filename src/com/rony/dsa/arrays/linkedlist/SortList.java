@@ -5,17 +5,6 @@ public class SortList {
 
     }
 
-    public Node getMid(Node head){
-        Node slow = head;
-        Node fast = head.next;
-
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        return slow;
-    }
-
     Node mergeSort(Node head){
         if(head == null || head.next == null){
             return head;
@@ -29,4 +18,17 @@ public class SortList {
 
         return merge(left,right);
     }
+    
+    public Node getMid(Node head){
+        Node slow = head;
+        Node fast = head.next;
+
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+
 }
