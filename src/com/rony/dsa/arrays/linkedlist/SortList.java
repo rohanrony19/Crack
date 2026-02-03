@@ -60,6 +60,7 @@ public class SortList {
 
     Node merge(Node a,Node b){
         if(a == null) return b;
+        
         if (b == null) return a;
 
         if(a.data <= b.data){
