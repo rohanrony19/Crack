@@ -3,6 +3,7 @@ package com.rony.dsa.arrays.linkedlist;
 public class SortList {
     Node head;
     Node tail;
+    
     public static void main(String[] args) {
         SortList ll = new SortList();
         ll.addLast(40);
