@@ -71,8 +71,6 @@ public class SortList {
             return b;
         }
 
-
-        
     }
 
     public void print(){
