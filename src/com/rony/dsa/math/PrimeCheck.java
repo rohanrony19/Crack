@@ -11,6 +11,7 @@ public class PrimeCheck {
             if(n % i == 0){
                 prime = false;
 
+
                 
                 break;
             }
