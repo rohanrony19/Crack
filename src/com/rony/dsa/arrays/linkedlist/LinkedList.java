@@ -130,7 +130,6 @@ public class LinkedList {
         fast.next = null;
     }
 
-
     
     public void print(){
         Node temp = head;
