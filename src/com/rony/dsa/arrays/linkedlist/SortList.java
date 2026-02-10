@@ -37,6 +37,7 @@ public class SortList {
         if(head == null || head.next == null){
             return head;
         }
+        
         Node mid = getMid(head);
         Node RightHead = mid.next;
         mid.next = null;
