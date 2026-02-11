@@ -1,5 +1,7 @@
 package com.rony.dsa.arrays.sorting;
 
+import java.util.Arrays;
+
 public class SelectionSortMinMax {
     public static void main(String[] args) {
         int[] arr = {4,8,2,6,1,0,5};
@@ -35,6 +37,6 @@ public class SelectionSortMinMax {
             start++;
             end--;
         }
-
+        System.out.println(Arrays.toString(arr));
     }
 }
