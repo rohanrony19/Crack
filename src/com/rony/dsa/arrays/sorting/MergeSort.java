@@ -45,8 +45,6 @@ public class MergeSort {
             merged[k++] = arr[idx2++];
         }
 
-
-        
         // copying arr
         for (int i = 0,j=start; i < merged.length; i++,j++) {
             arr[j] = merged[i];
