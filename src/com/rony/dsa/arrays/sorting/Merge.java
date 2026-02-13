@@ -15,6 +15,7 @@ public class Merge {
         for (int n:arr){
             System.out.println(n + " ");
         }
+
         
     }
 
