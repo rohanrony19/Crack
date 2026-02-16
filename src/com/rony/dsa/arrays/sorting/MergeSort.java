@@ -43,8 +43,6 @@ public class MergeSort {
 
         while (idx2 <= end){
             merged[k++] = arr[idx2++];
-
-            
         }
 
         // copying arr
