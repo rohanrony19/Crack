@@ -35,6 +35,7 @@ public class MergeSort {
             }else {
                 merged[k++] = arr[idx2++];
             }
+
             
         }
 
