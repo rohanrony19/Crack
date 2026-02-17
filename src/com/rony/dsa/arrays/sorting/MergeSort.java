@@ -35,8 +35,6 @@ public class MergeSort {
             }else {
                 merged[k++] = arr[idx2++];
             }
-
-            
         }
 
         while(idx1 <= mid){
