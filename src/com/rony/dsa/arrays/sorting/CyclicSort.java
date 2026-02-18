@@ -13,6 +13,7 @@ public class CyclicSort {
         int[] arr = {5,3,1,4,2};
 
         int i =0;
+
         while(i<arr.length){
             int index = arr[i] - 1;
             if(arr[i] != arr[index]){
