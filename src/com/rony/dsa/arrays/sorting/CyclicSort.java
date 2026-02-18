@@ -14,6 +14,7 @@ public class CyclicSort {
 
         int i =0;
 
+        
         while(i<arr.length){
             int index = arr[i] - 1;
             if(arr[i] != arr[index]){
