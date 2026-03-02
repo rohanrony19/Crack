@@ -5,6 +5,7 @@ public class EquilibriumIndex {
         int[] arr = {-7,1,5,2,-4,3,0};
 
         int total = 0;
+        
         for(int x : arr) total += x;
 
         int leftSum = 0;
