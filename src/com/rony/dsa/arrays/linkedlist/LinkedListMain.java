@@ -13,6 +13,7 @@ public class LinkedListMain {
         ll.addLast(70);
         ll.addLast(80);
 
+
         ll.print();
 
         ll.findMiddle();
