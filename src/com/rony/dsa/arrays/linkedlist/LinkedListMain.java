@@ -11,7 +11,6 @@ public class LinkedListMain {
         ll.addLast(50);
         ll.addLast(60);
         ll.addLast(70);
-        
         ll.addLast(80);
 
         ll.print();
