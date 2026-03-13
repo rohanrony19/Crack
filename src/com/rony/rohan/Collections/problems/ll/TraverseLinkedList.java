@@ -8,6 +8,7 @@ public class TraverseLinkedList {
         public Node(int data){
             this.data = data;
             this.next = null;
+
             
         }
     }
