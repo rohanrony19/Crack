@@ -13,6 +13,7 @@ Output: 1
 
 public class DiameterOfBinaryTree {
     public static class TreeNode {
+
         int val;
         TreeNode left;
         TreeNode right;
