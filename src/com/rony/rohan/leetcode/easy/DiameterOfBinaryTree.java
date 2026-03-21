@@ -22,8 +22,8 @@ public class DiameterOfBinaryTree {
             this.val = val;
             this.left = left;
             this.right = right;
-        } 
-    }
+        }
+    } 
     int diameter = 0;
 
     public int diameterOfBinaryTree(TreeNode root) {
