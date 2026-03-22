@@ -15,6 +15,7 @@ public class DiameterOfBinaryTree {
     public static class TreeNode {
         int val;
         TreeNode left;
+
         TreeNode right;
         TreeNode() {}
         TreeNode(int val) { this.val = val; }
@@ -23,7 +24,7 @@ public class DiameterOfBinaryTree {
             this.left = left;
             this.right = right;
         }
-    } 
+    }
     int diameter = 0;
 
     public int diameterOfBinaryTree(TreeNode root) {
