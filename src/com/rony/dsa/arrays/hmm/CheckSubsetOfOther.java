@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class CheckSubsetOfOther {
     public static void main(String[] args) {
         int[] a = {11, 1, 13, 21, 3, 7};
-        int[] b = {11, 3, 7, 1};
+        int[] b = {11,2};
 
         Arrays.sort(a);
         Arrays.sort(b);
@@ -26,6 +26,7 @@ public class CheckSubsetOfOther {
             else {
                 // a[i] > b[j] → means b[j] is missing
                 System.out.println(-1);
+                return;
             }
         }
 
