@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class CheckSubsetOfOther {
     public static void main(String[] args) {
         int[] a = {11, 1, 13, 21, 3, 7};
-        int[] b = {11,2};
+        int[] b = {11,3};
 
         Arrays.sort(a);
         Arrays.sort(b);
