@@ -12,5 +12,8 @@ public class Armstrong {
             temp /= 10;
         }
         System.out.println(sum == n ? "Armstrong" : "Not Armstrong");
+
+        System.out.println(153%3);
+        System.out.println(123/3);
     }
 }
