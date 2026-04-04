@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class MoveZeros {
     public static void main(String[] args) {
-        int[] arr = {1, 1, 4, 3, 12};
+        int[] arr = {1, 0, 4, 3, 12};
         int index = 0;
 
         for (int num:arr) {
