@@ -14,6 +14,7 @@ public class RemoveCharacter {
             s1 = s1.replace((c + ""),"");
 
         }
+        
 
         System.out.println(s1);
     }
