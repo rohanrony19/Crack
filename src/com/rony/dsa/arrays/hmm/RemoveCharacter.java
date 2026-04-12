@@ -12,7 +12,6 @@ public class RemoveCharacter {
         for (int i = 0; i < s2.length(); i++) {
             char c = s2.charAt(i);
             s1 = s1.replace((c + ""),"");
-
         }
         System.out.println(s1);
     }
