@@ -15,7 +15,6 @@ public class RemoveCharacter {
 
         }
 
-
         System.out.println(s1);
     }
 }
