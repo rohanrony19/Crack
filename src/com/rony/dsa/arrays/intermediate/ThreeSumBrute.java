@@ -9,6 +9,7 @@ public class ThreeSumBrute {
                 for (int k = j+1; k < arr.length; k++) {
                     if(arr[i] + arr[j] + arr[k] == 0){
 
+
                         System.out.println(arr[i] + ", " + arr[j] + ", " + arr[k]);
                     }
                 }
