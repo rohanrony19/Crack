@@ -15,6 +15,7 @@ public class CheckSubsetOfOther {
 
         while (i < m && j < n) {
 
+            
             if (a[i] < b[j]) {
                 // move in a to catch up
                 i++;
