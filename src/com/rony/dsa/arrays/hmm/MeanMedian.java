@@ -6,7 +6,6 @@ public class MeanMedian {
     public static void main(String[] args) {
         int[] arr = {1, 2, 28, 5};
 
-
         int sum = 0;
 
         for (int num:arr){
