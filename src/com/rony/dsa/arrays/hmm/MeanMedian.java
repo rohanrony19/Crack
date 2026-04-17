@@ -7,7 +7,6 @@ public class MeanMedian {
         int[] arr = {1, 2, 28, 5};
 
 
-
         int sum = 0;
 
         for (int num:arr){
