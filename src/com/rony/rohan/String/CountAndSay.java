@@ -13,6 +13,7 @@ public class CountAndSay {
                 count = 1;
             }
         }
+
         return res.toString();
     }
 
