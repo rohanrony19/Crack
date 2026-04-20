@@ -10,7 +10,6 @@ public class CountAndSay {
             if (i < s.length() && s.charAt(i) == s.charAt(i-1))count++;
             else {
                 res.append(count).append(s.charAt(i-1));
-
                 count = 1;
             }
         }
