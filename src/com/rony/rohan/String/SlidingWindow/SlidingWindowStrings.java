@@ -9,6 +9,7 @@ public class SlidingWindowStrings {
         int n = s.length();
         if (n < k) return -1;
         int sum = 0;
+
         for (int i = 0; i < k; i++) sum += (int) s.charAt(i);
         int maxSum = sum;
 
