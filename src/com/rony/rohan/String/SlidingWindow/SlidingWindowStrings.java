@@ -60,7 +60,6 @@ public class SlidingWindowStrings {
             while (l <= r && formed == required) {
                 c = s.charAt(l);
 
-
                 if (ans[0] == -1 || r - l + 1 < ans[0]) ans = new int[]{r - l + 1, l, r};
                 windowCounts.put(c, windowCounts.get(c) - 1);
                 if (tFreq.containsKey(c) && windowCounts.get(c).intValue() < tFreq.get(c).intValue())
