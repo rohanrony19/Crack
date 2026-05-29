@@ -13,6 +13,7 @@ public class InsertElementIndex {
         for (int i = 0; i < index; i++) {
             newArr[i] = arr[i];
         }
+
         newArr[index] = value;
 
         for (int i = index; i < arr.length; i++) {
