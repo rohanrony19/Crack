@@ -9,6 +9,7 @@ public class InsertElementIndex {
         int value = 99;
 
         int[] newArr = new int[arr.length + 1];
+
         for (int i = 0; i < index; i++) {
             newArr[i] = arr[i];
         }
