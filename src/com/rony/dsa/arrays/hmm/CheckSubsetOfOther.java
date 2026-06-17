@@ -12,7 +12,6 @@ public class CheckSubsetOfOther {
 
         int i = 0, j = 0;
         int m = a.length, n = b.length;
-
         while (i < m && j < n) {
             if (a[i] < b[j]) {
                 // move in a to catch up
