@@ -7,7 +7,6 @@ public class MaxConsecutiveOnes {
 
         int i = 0, zeroCount = 0, max = 0;
 
-
         for(int j = 0; j < arr.length; j++) {
             if(arr[j] == 0) zeroCount++;
 
