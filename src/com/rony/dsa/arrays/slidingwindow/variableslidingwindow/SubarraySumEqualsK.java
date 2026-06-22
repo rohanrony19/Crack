@@ -15,7 +15,6 @@ public class SubarraySumEqualsK {
         for(int n : arr) {
             prefix += n;
 
-
             if(map.containsKey(prefix - k))
                 count += map.get(prefix - k);
 
