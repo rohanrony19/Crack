@@ -32,7 +32,6 @@ public class DeleteNodeByValue {
     }
 
     static Person deleteByValue(Person head,String name){
-
         if(head == null){
             return null;
         }
