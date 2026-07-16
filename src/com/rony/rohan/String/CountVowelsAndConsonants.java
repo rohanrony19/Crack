@@ -5,6 +5,7 @@ public class CountVowelsAndConsonants {
     public static void main(String[] args) {
         String name = "Java Programming";
 //        String lowerCase = name.toLowerCase();  // O(n)
+
         int vowels = 0;
         int consonants = 0;
         for (int i = 0; i < name.length(); i++) {
