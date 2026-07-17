@@ -5,6 +5,7 @@ public class ReverseAString {
     static void rev(String name){
         char[] arr = name.toCharArray();
         int start = 0, end = arr.length-1;
+
         while (start<end){
             char temp = arr[start];
             arr[start] = arr[end];
