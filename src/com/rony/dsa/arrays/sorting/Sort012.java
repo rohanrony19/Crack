@@ -17,7 +17,8 @@ public class Sort012 {
             }
             else if(arr[mid] == 1){
                 mid++;
-            }else {
+            }
+            else {
                 int temp = arr[high];
                 arr[high] = arr[mid];
                 arr[mid] = temp;
