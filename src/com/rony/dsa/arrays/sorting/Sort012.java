@@ -25,6 +25,7 @@ public class Sort012 {
                 high--;
             }
         }
+
         System.out.println(Arrays.toString(arr));
     }
 }
