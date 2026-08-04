@@ -5,6 +5,7 @@ public class SearchACharacterInString {
         String name = "Rohan";
         char target = 'o';
         boolean isFound = false;
+
         for (int i = 0; i < name.length(); i++) {
             if(name.charAt(i) == target){
                 System.out.println("Character " + target + " found at index " + i);
