@@ -16,6 +16,7 @@ public class MergeArray {
                 merged[k++] = b[j++];
             }
         }
+
         while (i < a.length) merged[k++] = a[i++];
         while (j < b.length) merged[k++] = b[j++];
 
