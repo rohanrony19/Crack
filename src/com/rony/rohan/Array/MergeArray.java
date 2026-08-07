@@ -18,6 +18,7 @@ public class MergeArray {
         }
 
         while (i < a.length) merged[k++] = a[i++];
+
         while (j < b.length) merged[k++] = b[j++];
 
         for (int n : merged) System.out.print(n+" ");
