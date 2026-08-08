@@ -7,7 +7,6 @@ public class MergeArray {
         int[] b = {2,4,6};
 
         int[] merged = new int[a.length + b.length];
-
         int i=0,j=0,k=0;
 
         while (i<a.length && j<b.length){
