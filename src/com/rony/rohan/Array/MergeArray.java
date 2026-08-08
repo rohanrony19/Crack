@@ -9,6 +9,7 @@ public class MergeArray {
         int[] merged = new int[a.length + b.length];
 
         int i=0,j=0,k=0;
+
         while (i<a.length && j<b.length){
             if(a[i]<b[j]){
                 merged[k++] = a[i++];
