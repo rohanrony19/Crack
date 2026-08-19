@@ -76,7 +76,6 @@ public class SymmetricTree {
 
 
 
-        
         root2.right = new TreeNode(2);
         root2.left.right = new TreeNode(3);
         root2.right.right = new TreeNode(3);
