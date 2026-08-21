@@ -72,6 +72,7 @@ public class SymmetricTree {
 
         // Example 2: [1,2,2,null,3,null,3] → false
         TreeNode root2 = new TreeNode(1);
+
         root2.left = new TreeNode(2);
         root2.right = new TreeNode(2);
         root2.left.right = new TreeNode(3);
